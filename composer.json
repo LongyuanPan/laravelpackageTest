@@ -1,5 +1,5 @@
 {
-    "name": "myvendor/mylaravelpackage",
+    "name": "myvendor/mylaravelpackage-dd",
     "description": "测扩展包开发测试",
     "type": "library",
     "license": "MIT",
@@ -10,7 +10,7 @@
     },
     "authors": [
         {
-            "name": "mylaravelpackage",
+            "name": "mylaravelpackage-dd",
             "email": "716286571@qq.com"
         }
     ],
