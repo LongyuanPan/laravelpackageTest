@@ -2,6 +2,7 @@
     "name": "myvendor/mylaravelpackage",
     "description": "测扩展包开发测试",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Myvendor\\Mylaravelpackage\\": "src/"
@@ -9,7 +10,8 @@
     },
     "authors": [
         {
-            "name": "test"
+            "name": "mylaravelpackage",
+            "email": "716286571@qq.com"
         }
     ],
     "require": {}
