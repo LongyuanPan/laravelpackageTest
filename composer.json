@@ -1,0 +1,16 @@
+{
+    "name": "myvendor/mylaravelpackage",
+    "description": "测扩展包开发测试",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Myvendor\\Mylaravelpackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "test"
+        }
+    ],
+    "require": {}
+}
