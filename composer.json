@@ -1,5 +1,5 @@
 {
-    "name": "myvendor/mylaravelpackage-dd",
+    "name": "myvendortest/mylaravelpackage-dd",
     "description": "测扩展包开发测试",
     "type": "library",
     "license": "MIT",
